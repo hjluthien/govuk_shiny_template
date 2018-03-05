@@ -1,0 +1,61 @@
+a:link {
+  color: #005ea5; }
+    
+    a:visited {
+      color: #4c2c92; }
+        
+        a:hover {
+          color: #2b8cc4; }
+            
+            a:active {
+              color: #2b8cc4; }
+                
+                #header{
+                font: sans-serif;
+                color: white;
+                font-weight: bold;
+                background-color: black; }
+                
+              #alpha{
+                font: sans-serif;
+                color: white;
+                font-weight: bold;
+                background-color: #B10E1E;
+                display: -webkit-flex;
+                display: flex;
+                -webkit-flex-wrap: wrap;
+                flex-wrap: wrap;
+                -webkit-align-content: center;
+                align-content: center;}
+          
+          #crown{
+          padding-top: 5px; }
+      
+      #app-name{
+        font: sans-serif;
+        color: black;
+        font-weight: bold;
+        font-size: 120%;}
+      
+      #warning{
+      margin-top: 10px;
+      color: red;
+      font-weight: bold; }
+  
+  #support-text{
+    font: sans-serif;
+    font-size: 120%;
+    margin-top: 10px; }
+
+#footer{
+background-color: #dee0e2;
+  padding: 50px; }
+
+#OGL{
+margin-top: 140px; }
+
+#OGL-text{
+margin-top: 140px; }
+
+#crest{
+vertical-align: bottom; }
